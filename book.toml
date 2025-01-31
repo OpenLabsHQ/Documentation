@@ -1,0 +1,14 @@
+[book]
+authors = ["adamkadaban", "alexchristy", "nareshp1"]
+language = "en"
+multilingual = false
+src = "src"
+title = "OpenLabs"
+
+[output.html]
+git-repository-url = "https://github.com/OpenLabsEx/Setup"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/OpenLabsEx/Setup/edit/main/{path}"
+default-theme = "navy"
+
+[preprocessor.alerts]
