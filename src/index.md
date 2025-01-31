@@ -23,7 +23,7 @@ docker-compose up
 
 **Core Developers**
 - [@adamkadaban](https://github.com/adamkadaban)
-- [@notalex](https://github.com/notalex)
+- [@alexchristy](https://github.com/alexchristy)
 - [@nareshp1](https://github.com/nareshp1)
 
 **Thanks**
