@@ -28,4 +28,4 @@ docker-compose up
 
 **Thanks**
 - This project took much inspiration from [Ludus](https://gitlab.com/badsectorlabs/ludus) of Bad Sector Labs.
-- Our plugins are built on many open-source plugins written by fantastic developers!
+- Our plugins are built on many open-source Ansible playbooks written by fantastic developers!
