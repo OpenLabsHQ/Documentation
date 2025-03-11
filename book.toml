@@ -10,5 +10,6 @@ git-repository-url = "https://github.com/OpenLabsEx/Documentation"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/OpenLabsEx/Documentation/edit/main/{path}"
 default-theme = "light"
+cname = "docs.openlabs.sh"
 
 [preprocessor.alerts]
