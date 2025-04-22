@@ -13,6 +13,9 @@ OpenLabs is a platform for the easy creation of vulnerable cyber environments.
 
 ## Quick Start
 
+> [!NOTE]
+> The setup script is not complete yet. Visit our live demo at: https://openlabs.sh
+
 ```bash
 git clone https://github.com/OpenLabsX/Setup OpenLabsSetup
 cd OpenLabsSetup
