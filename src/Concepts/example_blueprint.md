@@ -1,8 +1,8 @@
-# Example Templates
+# Example Blueprints
 
-Templates can be made in YAML for human-readability or in JSON for verbosity
+Blueprints can be made in YAML for human-readability or in JSON for verbosity
 
-### Example 1: Basic Network
+### Example 1: Basic Network (YAML)
 
 ```yaml
 Range:
